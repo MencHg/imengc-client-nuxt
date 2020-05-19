@@ -1,4 +1,6 @@
 ## << 基于Vuejs的 Nuxt 服务端SSR Blog项目 >> nuxt-blog
+
+> 使用了 vuetify ui 框架快速搭建的项目
  - 主要功能
   - markdown博文展示
   - 博文点赞
